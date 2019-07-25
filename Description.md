@@ -34,7 +34,7 @@
 
 When I was a bartender for the first time in Belgium instead of hearing correctly "bruis water" I would constantly hear "pompelmoessap" for some odd reason  I had alot of strange looks and extra opened bottles of grapefruit juice.
 
-#### TL;DR: Gênant
+#### TL;DR: The troubles of learning Dutch
 
 
 [Previous](https://github.com/bona-kim/markdown/blob/master/bonakim.md) || [JOSEPH LINDZIUS](#) || [Next](https://github.com/RobinMarien/challenge-markdown/blob/master/README.md)          
