@@ -37,4 +37,4 @@ When I was a bartender for the first time in Belgium instead of hearing correctl
 #### Gênant
 
 
-[Previous]() || [JOSEPH LINDZIUS](#) || [Next]()          
+[Previous](https://github.com/bona-kim/markdown/blob/master/bonakim.md) || [JOSEPH LINDZIUS](#) || [Next](https://github.com/RobinMarien/challenge-markdown/blob/master/README.md)          
